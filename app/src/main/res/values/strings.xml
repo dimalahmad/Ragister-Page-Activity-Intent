@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Activity Page</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="reg">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    //Register Page
+    <string name="register_page">Register Page</string>
+    <string name="phone">Phone</string>
+    <string name="checkbox_reg1">By checking the box you agree to our</string>
+    <string name="checkbox_reg2">Terms</string>
+    <string name="checkbox_reg3">and</string>
+    <string name="checkbox_reg4">Conditions</string>
+    <string name="reg_to_login">Already Have an Account? </string>
+
+    //Login Page
+    <string name="login_page">Login Page</string>
+    <string name="new_member">New member ?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password ?</string>
+
+    //Homepage
+    <string name="homepage">Homepage</string>
+    <string name="welcome">Welcome</string>
+    <string name="your">Your</string>
+    <string name="email_homepage">has been activated</string>
+    <string name="phone_homepage">has been registered</string>
+    <string name="logout">Logout</string>
+</resources>
